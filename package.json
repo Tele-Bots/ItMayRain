@@ -1,0 +1,25 @@
+{
+  "name": "itmayrain",
+  "version": "1.0.0",
+  "description": "TelegramBot To Keep You Dry",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tele-Bots/ItMayRain.git"
+  },
+  "keywords": [
+    "telegram",
+    "bot",
+    "api",
+    "weather"
+  ],
+  "author": "Rahul Gurung",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Tele-Bots/ItMayRain/issues"
+  },
+  "homepage": "https://github.com/Tele-Bots/ItMayRain#readme"
+}
