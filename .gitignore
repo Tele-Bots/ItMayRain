@@ -59,6 +59,3 @@ typings/
 
 # next.js build output
 .next
-
-# api key configuration file
-config.js

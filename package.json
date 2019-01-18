@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/Tele-Bots/ItMayRain#readme",
   "dependencies": {
+    "dotenv": "^6.2.0",
     "node-telegram-bot-api": "^0.30.0"
   }
 }
